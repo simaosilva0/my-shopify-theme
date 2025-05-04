@@ -17,18 +17,26 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "FREE SHIPPING ON ORDERS OVER DKK 600",
+            "url": ""
+          }
+        },
+        "message_BbQhpV": {
+          "type": "message",
+          "settings": {
+            "text": "CLEARANCE SALE - UP TO 50% OFF",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_BbQhpV"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
         "background_gradient": "",
@@ -55,7 +63,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/logo.png",
+        "transparent_logo": "shopify://shop_images/logo_alternative.png",
         "reduce_padding": false,
         "background_opacity": 0,
         "background_blur_radius": 0
