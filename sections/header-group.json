@@ -66,7 +66,7 @@
         "transparent_logo": "shopify://shop_images/logo_alternative.png",
         "reduce_padding": false,
         "background_opacity": 100,
-        "background_blur_radius": 20
+        "background_blur_radius": 0
       }
     }
   },
