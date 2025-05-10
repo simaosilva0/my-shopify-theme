@@ -33,9 +33,13 @@
         "message",
         "message_BbQhpV"
       ],
+      "custom_css": [
+        ".announcement-bar {padding-top: 0.25rem; padding-bottom: 0.25rem;}",
+        ".announcement-bar p {line-height: 1.8; margin: 0;}"
+      ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-base",
+        "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
